@@ -27,6 +27,8 @@ fi
 # brew cask install sourcetree
 # brew cask install visual-studio-code
 # brew cask install google-chrome
+# brew cask install java
+# brew cask install android-studio
 
 # mas (Mac App Store command line interface)
 # if you need to install mas, remove comment out
